@@ -8,3 +8,7 @@ https://andypaz.com/2020/10/14/sitecore-layout-service-and-rendering-contents-re
 **Blog 2: Creating a custom rendering contents resolver for headless rendering**
 
 https://andypaz.com/2020/10/21/creating-a-custom-rendering-contents-resolver/
+
+**Blog 3: Extending the Layout Service Context**
+
+https://andypazcom.wordpress.com/2020/11/23/extending-the-layout-service-context/
