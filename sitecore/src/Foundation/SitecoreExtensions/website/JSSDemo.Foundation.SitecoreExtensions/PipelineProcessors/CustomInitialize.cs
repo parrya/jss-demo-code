@@ -20,6 +20,7 @@ namespace JSSDemo.Foundation.LayoutService.PipelineProcessors
         {
             _renderingConfiguration = args.RenderingConfiguration;
 
+            //Note: the constructor below is different for Sitecore 9.x and 10. The below will only work in Headless Services for Sitecore 10.
             return new RenderedJsonRendering()
             {
                 Name = args.Rendering.RenderingItem.Name,
